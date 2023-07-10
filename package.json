@@ -1,0 +1,22 @@
+{
+  "name": "notchy-theme",
+  "displayName": "Notchy Theme",
+  "description": "Notchy's theme for Visual Studio Code",
+  "version": "0.0.1",
+  "publisher": "Notchy",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Notchy Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Notchy-Dark-color-theme.json"
+      }
+    ]
+  }
+}
