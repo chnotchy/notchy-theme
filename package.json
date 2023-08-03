@@ -2,7 +2,7 @@
   "name": "notchy-theme",
   "displayName": "Notchy Theme",
   "description": "Notchy's theme for Visual Studio Code",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "chnotchy",
   "license": "MIT",
   "icon": "icon.png",
